@@ -16,7 +16,7 @@ What you'll need:
 
 Access to a computer with internet access
 A text editor (e.g. Microsoft Word Docs)
-Access to a sample Expense Tracker database (or instructor-provided data) that includes the table you designed in Week 1 (likely named "Expenses"). See the database script in this repo titled "Week2.txt"
+Access to a sample Expense Tracker database (or instructor-provided data) that includes the table you designed in Week 1 (likely namsed "Expenses"). See the database script in this repo titled "Week2.txt"
 Scenario: Imagine you've diligently tracked your expenses using the Expense Tracker database you designed last week. Now, it's time to analyze your spending habits!
 
 ## Submission:
