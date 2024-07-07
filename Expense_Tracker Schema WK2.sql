@@ -1,4 +1,4 @@
--- CREATE DATABASE I-- F NOT EXISTS expense_tracker;
+-- CREATE DATABASE IF NOT EXISTS expense_tracker;
 
 -- USE expense_tracker;
 
@@ -70,7 +70,7 @@
 -- 	   WHERE amount > 50;
 	   
 -- 2.3 SELECT * FROM expenses  
--- 	   WHERE amount > 75 AND catergory = 'Food';
+-- 	   WHERE amount > 75 AND category = 'Food';
 
 -- 2.4 SELECT * FROM expenses 
 --     WHERE category = 'Transportation' OR 'Groceries';
